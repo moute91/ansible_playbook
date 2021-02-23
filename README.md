@@ -1,1 +1,6 @@
-# ansible_playbookthis repository is to define and show how to write plybook in ansible
+
+Ansible Examples
+----------------
+
+This repository contains examples and best practices for building Ansible Playbooks.
+
